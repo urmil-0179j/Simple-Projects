@@ -1,0 +1,1 @@
+This repository contains a collection of simple web development projects that I have created.
